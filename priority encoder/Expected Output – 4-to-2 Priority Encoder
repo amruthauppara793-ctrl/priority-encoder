@@ -1,0 +1,8 @@
+Time=0  | D=0000 | Y=00 | Valid=0
+Time=10 | D=0001 | Y=00 | Valid=1
+Time=20 | D=0010 | Y=01 | Valid=1
+Time=30 | D=0100 | Y=10 | Valid=1
+Time=40 | D=1000 | Y=11 | Valid=1
+Time=50 | D=1010 | Y=11 | Valid=1
+Time=60 | D=0111 | Y=10 | Valid=1
+Time=70 | D=1111 | Y=11 | Valid=1
